@@ -120,11 +120,11 @@ If you're interested in participating in the poster session, please submit your 
 # Organising Committee
 
 
-| Name             | Affiliation             | Contact details                                                                                                                                                  
-|:-----------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Yue Xie          | University of Cambridge | Email: yx388@cam.ac.uk <br /> URL: [https://www.linkedin.com/in/yue-xie-20805a202/?originalSubdomain=uk](https://www.linkedin.com/in/yue-xie-20805a202/?originalSubdomain=uk)                                                                                                                                          |
-| David Howard     | CSIRO                   | Email: sinem.getir.yaman@york.ac.uk <br /> URL: [https://sinemgetir.github.io](https://sinemgetir.github.io)                                                     |
-| Mohammad Naiseh  | Univ. of Bournemouth    | Email: mnaiseh1@bournemouth.ac.uk <br /> URL: [https://staffprofiles.bournemouth.ac.uk/display/mnaiseh](https://staffprofiles.bournemouth.ac.uk/display/mnaiseh) |
-| Ayse Kucukyilmaz | Univ. of Nottingham     | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: [http://www.cs.nott.ac.uk/~pszak1/](http://www.cs.nott.ac.uk/~pszak1/)                                      |
+| Name            | Affiliation             | Contact details                                                                                                                                                               
+|:----------------|:------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Yue Xie         | University of Cambridge | Email: yx388@cam.ac.uk <br /> URL: [https://www.linkedin.com/in/yue-xie-20805a202/?originalSubdomain=uk](https://www.linkedin.com/in/yue-xie-20805a202/?originalSubdomain=uk) |
+| David Howard    | CSIRO                   | Email: david.howard@data61.cairo.au <br /> URL: [https://people.csiro.au/H/D/David-Howard](https://people.csiro.au/H/D/David-Howard)                                          |
+| Fumiya Iida     | University of Cambridge | Email: fi224@cam.ac.uk <br /> URL: [http://www.eng.cam.ac.uk/profiles/fi224](http://www.eng.cam.ac.uk/profiles/fi224)                         |
+| Josie Hughes    | EPFL                    | Email: josie.hughes@epfl.ch <br /> URL: [https://people.epfl.ch/josie.hughes?lang=en](https://people.epfl.ch/josie.hughes?lang=en)                                                   |
 
 
