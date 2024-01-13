@@ -77,53 +77,77 @@ If you're interested in participating in the poster session, please submit your 
  - Submission opening: **February 12, 2024**
  - Submission deadline: **April 8, 2024**
  - Notification: **May 3, 2024**
- - Workshop date: 29 May, 2023
  
 ***
 
 <a id="accepted" />
-# Accepted Papers
+# Accepted Papers (TBA)
 
- 1. Dario Mantegazza, Alessandro Giusti, Luca Gambardella and Jérôme Guzzi. **_"An Outlier Exposure Approach to Improve Visual Anomaly Detection Performance for Mobile Robots."_**
+[//]: # ( 1. Dario Mantegazza, Alessandro Giusti, Luca Gambardella and Jérôme Guzzi. **_"An Outlier Exposure Approach to Improve Visual Anomaly Detection Performance for Mobile Robots."_**)
 
- 2. Gowri Pradeep, Prokar Dasgupta, Sylvaine Tuncer, and Paul Luff. **_"Trust and Trustworthiness in Robotic Surgery: A Narrative Review."_**
+[//]: # ()
+[//]: # ( 2. Gowri Pradeep, Prokar Dasgupta, Sylvaine Tuncer, and Paul Luff. **_"Trust and Trustworthiness in Robotic Surgery: A Narrative Review."_**)
 
- 3. Matthew Cavorsi, Ninad Jadhav, David Saldaña, and Stephanie Gil. **_"Adaptive Malicious Robot Detection in Dynamic Topologies."_**
+[//]: # ()
+[//]: # ( 3. Matthew Cavorsi, Ninad Jadhav, David Saldaña, and Stephanie Gil. **_"Adaptive Malicious Robot Detection in Dynamic Topologies."_**)
 
- 4. David Cameron, Emily Collins, Stevienna de Saille, and James Law. **_"The Social Triad model of Human-Robot Interaction."_**
+[//]: # ()
+[//]: # ( 4. David Cameron, Emily Collins, Stevienna de Saille, and James Law. **_"The Social Triad model of Human-Robot Interaction."_**)
 
- 5. Yiwei Lyu, Wenhao Luo, and John Dolan. **_"Risk-aware Safe Control for Decentralized Multi-agent Systems via Dynamic Responsibility Allocation."_**
+[//]: # ()
+[//]: # ( 5. Yiwei Lyu, Wenhao Luo, and John Dolan. **_"Risk-aware Safe Control for Decentralized Multi-agent Systems via Dynamic Responsibility Allocation."_**)
 
- 6. Marko Thiel, Justin Ziegenbein, Noel Blunder, Johannes Hinckeldeyn, and Jochen Kreutzfeldt. **_"Mobile Robots on Sidewalks: Legal Context and Resulting Requirements for Autonomous Last-Mile Delivery in Germany."_**
+[//]: # ()
+[//]: # ( 6. Marko Thiel, Justin Ziegenbein, Noel Blunder, Johannes Hinckeldeyn, and Jochen Kreutzfeldt. **_"Mobile Robots on Sidewalks: Legal Context and Resulting Requirements for Autonomous Last-Mile Delivery in Germany."_**)
 
- 7. Matthew Story, Harriet Cameron, Gisela Reyes Cruz, and Maria Jose Galvez Trigo. **_”I want it to be happy instead”: co-designing robotic systems for cultural experiences with children that are autistic and/or have Learning Disabilities."_**
+[//]: # ()
+[//]: # ( 7. Matthew Story, Harriet Cameron, Gisela Reyes Cruz, and Maria Jose Galvez Trigo. **_”I want it to be happy instead”: co-designing robotic systems for cultural experiences with children that are autistic and/or have Learning Disabilities."_**)
 
- 8. Adam Taras, Niko Suenderhauf, Peter Corke, and Donald Dansereau. **_"The Need for Inherently Privacy-Preserving Vision in Trustworthy Autonomous Systems."_**
+[//]: # ()
+[//]: # ( 8. Adam Taras, Niko Suenderhauf, Peter Corke, and Donald Dansereau. **_"The Need for Inherently Privacy-Preserving Vision in Trustworthy Autonomous Systems."_**)
 
- 9. Aleksandra Landowska, Pablo Lopez-Custodio, Khairidine Benali, Liangju Min, Sue Cobb, Horia Alexandru Maior, Ayse Kucukyilmaz, and Max L. Wilson. **_"Mental Workload Estimation using fNIRS in Robotic Teleoperation."_**
+[//]: # ()
+[//]: # ( 9. Aleksandra Landowska, Pablo Lopez-Custodio, Khairidine Benali, Liangju Min, Sue Cobb, Horia Alexandru Maior, Ayse Kucukyilmaz, and Max L. Wilson. **_"Mental Workload Estimation using fNIRS in Robotic Teleoperation."_**)
 
 ***
 
 <a id="schedule" />
-# Schedule
+# Schedule (TBA)
 
-| Time  | Speaker          | Title | Session Chair |
-|:------|:------------------|:------|:------|
-| 09:00 | Organisers | **_Welcome note & TAS Overview_**  | Lars / Sinem |
-| 09:20 | [**Kate Devlin**](https://www.kcl.ac.uk/people/kate-devlin) (King's College London) | **_Our friends, the machines?_** | Lars / Sinem |
-| 09:50 | _Spotlight talks_ | Contributed papers / Poster Teaser Session | Mo / Zhengxin |
-| 10:30 | _Coffee break & Poster session_ | Baris / Hugo |
-| 11:15 | [**Joanna Al-Qaddoumi**](https://pure.york.ac.uk/portal/en/organisations/law) (University of York) | **_Trust ex machina: on a multi-level approach to 'meaningful' artificial intelligence governance._** | Baris / Hugo  |
-| 11:45 | Panel discussion 1: Agish George (Dyson), Joanna Al-Qaddoumi (University of York), Kate Devlin (King's College London) | **_Theme: Co-Creation of TAS_** | Lars / Sinem |
-| 12:30 | _Lunch Break_ |  |
-| 14:00 | Organisers | Survey results / Key Questions for Focus groups | Ayse / Sinem |
-| 14:20 | Focus groups | **_Small working groups focusing on different aspects of TAS including: Design,  Engineering, Operation, and Regulation_** | Ayse / Sinem |
-| 15:30 | _Coffee break & Poster session_  | Baris / Hugo |
-| 16:00 | [**Subramanian Ramamoorthy**](https://www.edinburgh-robotics.org/academics/subramanian-ramamoorthy) (Univ. of Edinburgh) | **_Algorithmic approaches to simulation-based safety evaluation in open environments_** | Mo / Zhengxin |
-| 16:30 | [**Luis Sentis**](https://www.ae.utexas.edu/people/faculty/faculty-directory/sentis) (Univ. of Texas) | **_Mental Workload Estimation During Human Multi-Robot Search Teaming using Wearable Thin Film EEG Sensors_** | Mo / Zhengxin |
-| 17:00 | Panel Discussion 2: Luis Sentis (University of Texas, Austin), Subramanian Ramamoorthy (Univ. of Edinburgh) | **_Theme: TAS in our Society - Testing, Operation & Governance_** | Ayse / Sinem |
-| 17:45 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** | |
-| 18:15 | _End of Workshop_ |  |
+[//]: # ()
+[//]: # (| Time  | Speaker          | Title | Session Chair |)
+
+[//]: # (|:------|:------------------|:------|:------|)
+
+[//]: # (| 09:00 | Organisers | **_Welcome note & TAS Overview_**  | Lars / Sinem |)
+
+[//]: # (| 09:20 | [**Kate Devlin**]&#40;https://www.kcl.ac.uk/people/kate-devlin&#41; &#40;King's College London&#41; | **_Our friends, the machines?_** | Lars / Sinem |)
+
+[//]: # (| 09:50 | _Spotlight talks_ | Contributed papers / Poster Teaser Session | Mo / Zhengxin |)
+
+[//]: # (| 10:30 | _Coffee break & Poster session_ | Baris / Hugo |)
+
+[//]: # (| 11:15 | [**Joanna Al-Qaddoumi**]&#40;https://pure.york.ac.uk/portal/en/organisations/law&#41; &#40;University of York&#41; | **_Trust ex machina: on a multi-level approach to 'meaningful' artificial intelligence governance._** | Baris / Hugo  |)
+
+[//]: # (| 11:45 | Panel discussion 1: Agish George &#40;Dyson&#41;, Joanna Al-Qaddoumi &#40;University of York&#41;, Kate Devlin &#40;King's College London&#41; | **_Theme: Co-Creation of TAS_** | Lars / Sinem |)
+
+[//]: # (| 12:30 | _Lunch Break_ |  |)
+
+[//]: # (| 14:00 | Organisers | Survey results / Key Questions for Focus groups | Ayse / Sinem |)
+
+[//]: # (| 14:20 | Focus groups | **_Small working groups focusing on different aspects of TAS including: Design,  Engineering, Operation, and Regulation_** | Ayse / Sinem |)
+
+[//]: # (| 15:30 | _Coffee break & Poster session_  | Baris / Hugo |)
+
+[//]: # (| 16:00 | [**Subramanian Ramamoorthy**]&#40;https://www.edinburgh-robotics.org/academics/subramanian-ramamoorthy&#41; &#40;Univ. of Edinburgh&#41; | **_Algorithmic approaches to simulation-based safety evaluation in open environments_** | Mo / Zhengxin |)
+
+[//]: # (| 16:30 | [**Luis Sentis**]&#40;https://www.ae.utexas.edu/people/faculty/faculty-directory/sentis&#41; &#40;Univ. of Texas&#41; | **_Mental Workload Estimation During Human Multi-Robot Search Teaming using Wearable Thin Film EEG Sensors_** | Mo / Zhengxin |)
+
+[//]: # (| 17:00 | Panel Discussion 2: Luis Sentis &#40;University of Texas, Austin&#41;, Subramanian Ramamoorthy &#40;Univ. of Edinburgh&#41; | **_Theme: TAS in our Society - Testing, Operation & Governance_** | Ayse / Sinem |)
+
+[//]: # (| 17:45 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** | |)
+
+[//]: # (| 18:15 | _End of Workshop_ |  |)
 
 ***
 
@@ -141,51 +165,76 @@ Hugo Araujo | King's College London | Email: hugo.araujo@kcl.ac.uk <br /> URL: [
 Baris Serhan | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk <br /> URL: [https://www.research.manchester.ac.uk/portal/baris.serhan.html](https://www.research.manchester.ac.uk/portal/baris.serhan.html) |
 Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: [https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu](https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu) |
 
-***
+[//]: # (***)
 
-<a id="programme" />
-# Programme Committee
+[//]: # ()
+[//]: # (<a id="programme" />)
 
+[//]: # (# Programme Committee)
 
-| Name | Affiliation |
-|:------|:------------------|
-Mohammad Naiseh | Bournemouth University |
-Edmond Awad | University of Exeter |
-Katie Parnell | University of Southampton |
-Andrew Sogokon | Carnegie Mellon University |
-David Bossens | University of Southampton |
-Lu Yang | Lancaster University |
-Liz Dowthwaite | University of Nottingham |
-Elnaz Shafipour | University of Southampton |
-Caitlin Bentley | King's College London |
-Geylani Kardas | Ege University International Computer Institute |
-Jennifer Williams | University of Southampton |
-Tayyaba Azim | University of southampton |
-Auste Simkute | University of Edinburgh |
-Alan Chamberlain | University of Nottingham |
-Justyna Lisinska | King's College London |
-Lina Marsso | University of Toronto |
+[//]: # ()
+[//]: # ()
+[//]: # (| Name | Affiliation |)
 
+[//]: # (|:------|:------------------|)
+
+[//]: # (Mohammad Naiseh | Bournemouth University |)
+
+[//]: # (Edmond Awad | University of Exeter |)
+
+[//]: # (Katie Parnell | University of Southampton |)
+
+[//]: # (Andrew Sogokon | Carnegie Mellon University |)
+
+[//]: # (David Bossens | University of Southampton |)
+
+[//]: # (Lu Yang | Lancaster University |)
+
+[//]: # (Liz Dowthwaite | University of Nottingham |)
+
+[//]: # (Elnaz Shafipour | University of Southampton |)
+
+[//]: # (Caitlin Bentley | King's College London |)
+
+[//]: # (Geylani Kardas | Ege University International Computer Institute |)
+
+[//]: # (Jennifer Williams | University of Southampton |)
+
+[//]: # (Tayyaba Azim | University of southampton |)
+
+[//]: # (Auste Simkute | University of Edinburgh |)
+
+[//]: # (Alan Chamberlain | University of Nottingham |)
+
+[//]: # (Justyna Lisinska | King's College London |)
+
+[//]: # (Lina Marsso | University of Toronto |)
 
 
 ***
 
 <a id="special" />
-# Special Issue
+# Special Issue (TBA)
 
-Call for our special issue can be accessed using [this link](https://www.sciencedirect.com/journal/journal-of-responsible-technology/about/call-for-papers#multidisciplinary-approaches-for-trustworthy-autonomous-systems).
+[//]: # (Call for our special issue can be accessed using [this link]&#40;https://www.sciencedirect.com/journal/journal-of-responsible-technology/about/call-for-papers#multidisciplinary-approaches-for-trustworthy-autonomous-systems&#41;.)
 
+[//]: # ()
+[//]: # (***)
 
-***
+[//]: # ()
+[//]: # (<a id="survey" />)
 
-<a id="survey" />
-# Emerging Challenges Survey: Trustworthy Autonomous Systems 
+[//]: # (# Emerging Challenges Survey: Trustworthy Autonomous Systems )
 
-This online survey aims to collect attitudes and perspectives toward Trustworthy Autonomous Systems (TAS) from a multidisciplinary lens. The survey is aimed to complement this workshop. The results of the survey will complement focus group discussions to form a  multidisciplinary taxonomy on various aspects and the emerging challenges for TAS, including but not limited to aspects of design, engineering, operation and regulation of TAS. The results will be reviewed by the workshop organisers. By completing this survey, you are helping us understand and support the specific needs of this research community.
+[//]: # ()
+[//]: # (This online survey aims to collect attitudes and perspectives toward Trustworthy Autonomous Systems &#40;TAS&#41; from a multidisciplinary lens. The survey is aimed to complement this workshop. The results of the survey will complement focus group discussions to form a  multidisciplinary taxonomy on various aspects and the emerging challenges for TAS, including but not limited to aspects of design, engineering, operation and regulation of TAS. The results will be reviewed by the workshop organisers. By completing this survey, you are helping us understand and support the specific needs of this research community.)
 
-No personal or identifying data is collected as part of this survey. We process the data you process on the legal basis that our research is in the public interest, we have legitimate interests and / or that you consent to data processing in freely and voluntarily participating in our research activities. The survey can be accessed using the link below:
+[//]: # ()
+[//]: # (No personal or identifying data is collected as part of this survey. We process the data you process on the legal basis that our research is in the public interest, we have legitimate interests and / or that you consent to data processing in freely and voluntarily participating in our research activities. The survey can be accessed using the link below:)
 
-[https://forms.office.com/e/zSJzdnRarf](https://forms.office.com/e/zSJzdnRarf)
+[//]: # ()
+[//]: # ([https://forms.office.com/e/zSJzdnRarf]&#40;https://forms.office.com/e/zSJzdnRarf&#41;)
 
+[//]: # ()
 
 
