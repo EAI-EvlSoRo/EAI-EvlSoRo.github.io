@@ -12,15 +12,14 @@ layout: default
 
 Our **_GECCO 2024 Workshop on Embodied and Evolved Artificial Intelligence_** will bring together a diverse group of professionals from various fields such as AI, evolutionary computation, robotics, engineering. We will organise a workshop which will be open and welcome to researchers from the EC community and robotics community.
 
-Embodied artificial intelligence is a cutting-edge field at the intersection of AI, robotics, and bioengineering, focuses on integarting artificial systems with intelligence for rich environmental interactions. It's driven by the philosophy of embodied cognition, asserting that true intelligence is linked with physical and social embodiment. 
+Embodied artificial intelligence is a cutting-edge field at the intersection of AI, robotics, and bioengineering, focuses on integrating artificial systems with intelligence for rich environmental interactions. It's driven by the philosophy of embodied cognition, asserting that true intelligence is linked with physical and social embodiment. 
 
-  - Robustness and resilience in dynamic and uncertain environments.
-  - The assurance of the design and operation of autonomous systems through verification and validation processes.
-  - The confidence the systems inspire as they evolve their functionality.
-  - Their explainability, accountability, and understandability to a diverse set of users.
-  - Defences against attacks on the systems, users, and the environment they are deployed in.
-  - Governance and the regulation of their design and operation.
-  - The consideration of human values and ethics in their development and use.
+This workshop aims to elucidate how the notion of embodiment as a design paradigm aligns with and enriches the entire domain of evolutionary computation. We are interested in several factors contributing to the embodied artificial intelligence, which include but not limited to the following:
+
+  - Integration of evolutionary approaches with traditional design techniques.
+  - Bio-inspired Soft Robot Evolution.
+  - Embodied and mechanical intelligence in soft robots.
+  - Real-world embodied AI through bio-inspired mechanisms.
 
 To explore these topics through the lenses of different disciplines and to co-create a common ground, we propose to organise a **_full-day workshop with a balanced mix of invited talks, panel discussions, contributed presentations, and focus groups._** While the workshop will be an in-person event, we will also stream sessions online and allow for an interactive Q&A.  
 
