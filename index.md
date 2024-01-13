@@ -4,13 +4,10 @@ layout: default
 
 ***
 
-[//]: # (![gecco]&#40;/docs/assets/images/GECCO_logo.png&#41;{: height="200" }![birl]&#40;/docs/assets/images/birl_logo.png&#41;{: height="200" }![csiro]&#40;/docs/assets/images/csiro_logo.jpg&#41;{: height="150" }![epfl]&#40;/docs/assets/images/epfl_logo.png&#41;{: height="150" })
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="/docs/assets/images/GECCO_logo.png" alt="gecco" style="height: 200px;">
-    <img src="/docs/assets/images/birl_logo.png" alt="birl" style="height: 200px;">
-    <img src="/docs/assets/images/csiro_logo.jpg" alt="csiro" style="height: 150px;">
-    <img src="/docs/assets/images/epfl_logo.png" alt="epfl" style="height: 150px;">
-</div>
+![alllogo](/docs/assets/images/logo_all.png){: height="200" }
+
+[//]: # (![birl]&#40;/docs/assets/images/birl_logo.png&#41;{: height="200" }![csiro]&#40;/docs/assets/images/csiro_logo.jpg&#41;{: height="150" }![epfl]&#40;/docs/assets/images/epfl_logo.png&#41;{: height="150" })
+
 
 # About
 
