@@ -21,8 +21,6 @@ This workshop aims to elucidate how the notion of embodiment as a design paradig
   - Embodied and mechanical intelligence in soft robots.
   - Real-world embodied AI through bio-inspired mechanisms.
 
-To explore these topics through the lenses of different disciplines and to co-create a common ground, we propose to organise a **_full-day workshop with a balanced mix of invited talks, panel discussions, contributed presentations, and focus groups._** While the workshop will be an in-person event, we will also stream sessions online and allow for an interactive Q&A.  
-
 A diverse group of invited speakers and panellists will present and discuss fundamental issues as well as current and future challenges of TAS.  
 
 **_Contributed Papers_** will be presented in **_spotlight talks_** and during **_two poster sessions_**. We will seek submissions describing novel ideas and/or preliminary results, but also related works concerning TAS that have been peer-reviewed and accepted by other top-tier journals and/or conferences (e.g. ICRA or AAMAS). The latter allows workshop participants to learn about recent works that have been published in the field. The Programme Committee will nominate and select papers for the **_Best TAS Paper Award_**, while workshop participants will cast their votes for the **_Best TAS Poster Award_** on the day. 
