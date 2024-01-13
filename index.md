@@ -38,10 +38,12 @@ Following the GECCO 2024 workshop on Embodied and Envolved Artificial Intelligen
 <a id="cfp" />
 # Call for Papers
 
-The workshop on **Embodied and Evolved Artificial Intelligence (EEAI)** aims to bring together academics from a wide range of disciplines and backgrounds and to drive discussion around the interactions between evolutionary computation and embodied cognition, using soft robotics as a touchpoint. 
+The workshop on **Embodied and Evolved Artificial Intelligence (EEAI)** aims to gather academics from a wide range of disciplines and backgrounds and to drive discussion around the interactions between evolutionary computation and embodied cognition, using soft robotics as a touchpoint. 
 We focus on enhancing the research that fully explores the potential of embodied artificial intelligence as a problem-solving tool and philosophy.
 
-We welcome **novel contributions** for presentation at the GECCO 2024 Workshop, which will be included in the **_GECCO Conference Companion Proceedings_**. In addition, **previously published papers** spanning a broad range of topics are invited for the **_poster session_** of the workshop, designed to engage both technical and non-technical audiences.
+We invite submissions on innovative approaches in embodied AI, integration of sensing and mechanics in robotics, automatic designing of morphology and control system of robotics, and the application of evolutionary algorithms in evolving systems. We encourage papers that address both technical advancements and theoretical insights in these areas.
+
+**Novel contributions** will be presented at the GECCO 2024 Workshop and included in the **_GECCO Conference Companion Proceedings_**. In addition, we invite **previously published papers** that spanning a broad range of topics for our **_poster session_**, designed to engage both technical and non-technical audiences.
 
 ## Submission Link
 
