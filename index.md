@@ -10,7 +10,7 @@ layout: default
 
 # About
 
-Our joint **_ICRA 2023 Workshop on Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems_** will bring together academics and industry practitioners from a wide range of disciplines and backgrounds (including robotics, engineering, AI, computer science, social science, humanities, design, and law). We will organise a workshop which will be open and welcoming to researchers from the autonomous agents and multi-agent systems community.   
+Our **_GECCO 2024 Workshop on Embodied and Evolved Artificial Intelligence_** will bring together a diverse group of professionals from various fields such as AI, evolutionary computation, robotics, engineering. We will organise a workshop which will be open and welcome to researchers from the EC community and robotics community.
 
 Defining autonomous systems as systems involving software applications, machines, and people, which are able to take actions with little or no human supervision, the workshop will explore different definitions of TAS and individual aspects of trust from a multidisciplinary perspective. We are interested in several factors contributing to the trustworthiness of autonomous systems, which include but not limited to the following:
 
