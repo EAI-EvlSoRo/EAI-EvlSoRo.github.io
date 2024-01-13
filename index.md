@@ -155,15 +155,15 @@ If you're interested in participating in the poster session, please submit your 
 # Organising Committee
 
 
-| Name | Affiliation | Contact details
-|:------|:------------------|:------|
-Lars Kunze | Univ. of Oxford | Email: lars@robots.ox.ac.uk <br /> URL: [https://ori.ox.ac.uk/~lars](https://ori.ox.ac.uk/~lars) |
-Sinem Getir Yaman | Univ. of York | Email: sinem.getir.yaman@york.ac.uk <br /> URL: [https://sinemgetir.github.io](https://sinemgetir.github.io) |
-Mohammad Naiseh | Univ. of Bournemouth | Email: mnaiseh1@bournemouth.ac.uk <br /> URL: [https://staffprofiles.bournemouth.ac.uk/display/mnaiseh](https://staffprofiles.bournemouth.ac.uk/display/mnaiseh) |
-Ayse Kucukyilmaz | Univ. of Nottingham | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: [http://www.cs.nott.ac.uk/~pszak1/](http://www.cs.nott.ac.uk/~pszak1/) |
-Hugo Araujo | King's College London | Email: hugo.araujo@kcl.ac.uk <br /> URL: [https://kclpure.kcl.ac.uk/portal/hugo.araujo.html](https://kclpure.kcl.ac.uk/portal/hugo.araujo.html) |
-Baris Serhan | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk <br /> URL: [https://www.research.manchester.ac.uk/portal/baris.serhan.html](https://www.research.manchester.ac.uk/portal/baris.serhan.html) |
-Zhengxin Yu | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: [https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu](https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu) |
+| Name | Affiliation             | Contact details                                                                                                                                                                   
+|:------|:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Yue Xie | University of Cambridge | Email: yx388@cam.ac.uk <br /> URL: [https://ori.ox.ac.uk/~lars](https://ori.ox.ac.uk/~lars)                                                                                       |
+Sinem Getir Yaman | Univ. of York           | Email: sinem.getir.yaman@york.ac.uk <br /> URL: [https://sinemgetir.github.io](https://sinemgetir.github.io)                                                                      |
+Mohammad Naiseh | Univ. of Bournemouth    | Email: mnaiseh1@bournemouth.ac.uk <br /> URL: [https://staffprofiles.bournemouth.ac.uk/display/mnaiseh](https://staffprofiles.bournemouth.ac.uk/display/mnaiseh)                  |
+Ayse Kucukyilmaz | Univ. of Nottingham     | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: [http://www.cs.nott.ac.uk/~pszak1/](http://www.cs.nott.ac.uk/~pszak1/)                                                       |
+Hugo Araujo | King's College London   | Email: hugo.araujo@kcl.ac.uk <br /> URL: [https://kclpure.kcl.ac.uk/portal/hugo.araujo.html](https://kclpure.kcl.ac.uk/portal/hugo.araujo.html)                                   |
+Baris Serhan | Univ. of Manchester     | Email: baris.serhan@manchester.ac.uk <br /> URL: [https://www.research.manchester.ac.uk/portal/baris.serhan.html](https://www.research.manchester.ac.uk/portal/baris.serhan.html) |
+Zhengxin Yu | Lancaster Univ.         | Email: z.yu8@lancaster.ac.uk <br /> URL: [https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu](https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu)               |
 
 [//]: # (***)
 
