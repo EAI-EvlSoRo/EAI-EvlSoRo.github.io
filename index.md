@@ -114,127 +114,19 @@ If you're interested in participating in the poster session, please submit your 
 <a id="schedule" />
 # Schedule (TBA)
 
-[//]: # ()
-[//]: # (| Time  | Speaker          | Title | Session Chair |)
-
-[//]: # (|:------|:------------------|:------|:------|)
-
-[//]: # (| 09:00 | Organisers | **_Welcome note & TAS Overview_**  | Lars / Sinem |)
-
-[//]: # (| 09:20 | [**Kate Devlin**]&#40;https://www.kcl.ac.uk/people/kate-devlin&#41; &#40;King's College London&#41; | **_Our friends, the machines?_** | Lars / Sinem |)
-
-[//]: # (| 09:50 | _Spotlight talks_ | Contributed papers / Poster Teaser Session | Mo / Zhengxin |)
-
-[//]: # (| 10:30 | _Coffee break & Poster session_ | Baris / Hugo |)
-
-[//]: # (| 11:15 | [**Joanna Al-Qaddoumi**]&#40;https://pure.york.ac.uk/portal/en/organisations/law&#41; &#40;University of York&#41; | **_Trust ex machina: on a multi-level approach to 'meaningful' artificial intelligence governance._** | Baris / Hugo  |)
-
-[//]: # (| 11:45 | Panel discussion 1: Agish George &#40;Dyson&#41;, Joanna Al-Qaddoumi &#40;University of York&#41;, Kate Devlin &#40;King's College London&#41; | **_Theme: Co-Creation of TAS_** | Lars / Sinem |)
-
-[//]: # (| 12:30 | _Lunch Break_ |  |)
-
-[//]: # (| 14:00 | Organisers | Survey results / Key Questions for Focus groups | Ayse / Sinem |)
-
-[//]: # (| 14:20 | Focus groups | **_Small working groups focusing on different aspects of TAS including: Design,  Engineering, Operation, and Regulation_** | Ayse / Sinem |)
-
-[//]: # (| 15:30 | _Coffee break & Poster session_  | Baris / Hugo |)
-
-[//]: # (| 16:00 | [**Subramanian Ramamoorthy**]&#40;https://www.edinburgh-robotics.org/academics/subramanian-ramamoorthy&#41; &#40;Univ. of Edinburgh&#41; | **_Algorithmic approaches to simulation-based safety evaluation in open environments_** | Mo / Zhengxin |)
-
-[//]: # (| 16:30 | [**Luis Sentis**]&#40;https://www.ae.utexas.edu/people/faculty/faculty-directory/sentis&#41; &#40;Univ. of Texas&#41; | **_Mental Workload Estimation During Human Multi-Robot Search Teaming using Wearable Thin Film EEG Sensors_** | Mo / Zhengxin |)
-
-[//]: # (| 17:00 | Panel Discussion 2: Luis Sentis &#40;University of Texas, Austin&#41;, Subramanian Ramamoorthy &#40;Univ. of Edinburgh&#41; | **_Theme: TAS in our Society - Testing, Operation & Governance_** | Ayse / Sinem |)
-
-[//]: # (| 17:45 | Organisers | **_Best TAS Paper/Poster Awards & Concluding remarks_** | |)
-
-[//]: # (| 18:15 | _End of Workshop_ |  |)
-
 ***
 
 <a id="organising" />
 # Organising Committee
 
 
-| Name | Affiliation             | Contact details                                                                                                                                                                   
-|:------|:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-Yue Xie | University of Cambridge | Email: yx388@cam.ac.uk <br /> URL: [https://ori.ox.ac.uk/~lars](https://ori.ox.ac.uk/~lars)                                                                                       |
-Sinem Getir Yaman | Univ. of York           | Email: sinem.getir.yaman@york.ac.uk <br /> URL: [https://sinemgetir.github.io](https://sinemgetir.github.io)                                                                      |
-Mohammad Naiseh | Univ. of Bournemouth    | Email: mnaiseh1@bournemouth.ac.uk <br /> URL: [https://staffprofiles.bournemouth.ac.uk/display/mnaiseh](https://staffprofiles.bournemouth.ac.uk/display/mnaiseh)                  |
-Ayse Kucukyilmaz | Univ. of Nottingham     | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: [http://www.cs.nott.ac.uk/~pszak1/](http://www.cs.nott.ac.uk/~pszak1/)                                                       |
-Hugo Araujo | King's College London   | Email: hugo.araujo@kcl.ac.uk <br /> URL: [https://kclpure.kcl.ac.uk/portal/hugo.araujo.html](https://kclpure.kcl.ac.uk/portal/hugo.araujo.html)                                   |
-Baris Serhan | Univ. of Manchester     | Email: baris.serhan@manchester.ac.uk <br /> URL: [https://www.research.manchester.ac.uk/portal/baris.serhan.html](https://www.research.manchester.ac.uk/portal/baris.serhan.html) |
-Zhengxin Yu | Lancaster Univ.         | Email: z.yu8@lancaster.ac.uk <br /> URL: [https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu](https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu)               |
-
-[//]: # (***)
-
-[//]: # ()
-[//]: # (<a id="programme" />)
-
-[//]: # (# Programme Committee)
-
-[//]: # ()
-[//]: # ()
-[//]: # (| Name | Affiliation |)
-
-[//]: # (|:------|:------------------|)
-
-[//]: # (Mohammad Naiseh | Bournemouth University |)
-
-[//]: # (Edmond Awad | University of Exeter |)
-
-[//]: # (Katie Parnell | University of Southampton |)
-
-[//]: # (Andrew Sogokon | Carnegie Mellon University |)
-
-[//]: # (David Bossens | University of Southampton |)
-
-[//]: # (Lu Yang | Lancaster University |)
-
-[//]: # (Liz Dowthwaite | University of Nottingham |)
-
-[//]: # (Elnaz Shafipour | University of Southampton |)
-
-[//]: # (Caitlin Bentley | King's College London |)
-
-[//]: # (Geylani Kardas | Ege University International Computer Institute |)
-
-[//]: # (Jennifer Williams | University of Southampton |)
-
-[//]: # (Tayyaba Azim | University of southampton |)
-
-[//]: # (Auste Simkute | University of Edinburgh |)
-
-[//]: # (Alan Chamberlain | University of Nottingham |)
-
-[//]: # (Justyna Lisinska | King's College London |)
-
-[//]: # (Lina Marsso | University of Toronto |)
-
-
-***
-
-<a id="special" />
-# Special Issue (TBA)
-
-[//]: # (Call for our special issue can be accessed using [this link]&#40;https://www.sciencedirect.com/journal/journal-of-responsible-technology/about/call-for-papers#multidisciplinary-approaches-for-trustworthy-autonomous-systems&#41;.)
-
-[//]: # ()
-[//]: # (***)
-
-[//]: # ()
-[//]: # (<a id="survey" />)
-
-[//]: # (# Emerging Challenges Survey: Trustworthy Autonomous Systems )
-
-[//]: # ()
-[//]: # (This online survey aims to collect attitudes and perspectives toward Trustworthy Autonomous Systems &#40;TAS&#41; from a multidisciplinary lens. The survey is aimed to complement this workshop. The results of the survey will complement focus group discussions to form a  multidisciplinary taxonomy on various aspects and the emerging challenges for TAS, including but not limited to aspects of design, engineering, operation and regulation of TAS. The results will be reviewed by the workshop organisers. By completing this survey, you are helping us understand and support the specific needs of this research community.)
-
-[//]: # ()
-[//]: # (No personal or identifying data is collected as part of this survey. We process the data you process on the legal basis that our research is in the public interest, we have legitimate interests and / or that you consent to data processing in freely and voluntarily participating in our research activities. The survey can be accessed using the link below:)
-
-[//]: # ()
-[//]: # ([https://forms.office.com/e/zSJzdnRarf]&#40;https://forms.office.com/e/zSJzdnRarf&#41;)
-
-[//]: # ()
-
+| Name              | Affiliation | Contact details
+|:------------------|:------------------|:------|
+| Lars Kunze        | Univ. of Oxford | Email: lars@robots.ox.ac.uk <br /> URL: [https://ori.ox.ac.uk/~lars](https://ori.ox.ac.uk/~lars) |
+| Sinem Getir Yaman | Univ. of York | Email: sinem.getir.yaman@york.ac.uk <br /> URL: [https://sinemgetir.github.io](https://sinemgetir.github.io) |
+| Mohammad Naiseh   | Univ. of Bournemouth | Email: mnaiseh1@bournemouth.ac.uk <br /> URL: [https://staffprofiles.bournemouth.ac.uk/display/mnaiseh](https://staffprofiles.bournemouth.ac.uk/display/mnaiseh) |
+| Ayse Kucukyilmaz  | Univ. of Nottingham | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: [http://www.cs.nott.ac.uk/~pszak1/](http://www.cs.nott.ac.uk/~pszak1/) |
+| Hugo Araujo       | King's College London | Email: hugo.araujo@kcl.ac.uk <br /> URL: [https://kclpure.kcl.ac.uk/portal/hugo.araujo.html](https://kclpure.kcl.ac.uk/portal/hugo.araujo.html) |
+| Baris Serhan      | Univ. of Manchester | Email: baris.serhan@manchester.ac.uk <br /> URL: [https://www.research.manchester.ac.uk/portal/baris.serhan.html](https://www.research.manchester.ac.uk/portal/baris.serhan.html) |
+| Zhengxin Yu       | Lancaster Univ. | Email: z.yu8@lancaster.ac.uk <br /> URL: [https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu](https://www.lancaster.ac.uk/scc/about-us/people/zhengxin-yu) |
 
