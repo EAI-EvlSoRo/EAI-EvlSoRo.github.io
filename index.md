@@ -21,7 +21,7 @@ This workshop aims to elucidate how the notion of embodiment as a design paradig
   - Embodied and mechanical intelligence in soft robots.
   - Real-world embodied AI through bio-inspired mechanisms.
 
-A diverse group of invited speakers and panelists will delve into fundamental issues and emerging challenges in the field. The workshop will also feature an innovative 'show and tell' demo session, designed to be fully interactive. Participants, including researchers, are encouraged to integrate their thematic demonstrations with those from the CSIRO Soft Robotics lab, fostering a collaborative and hands-on experience.
+A diverse group of invited speakers and panelists will delve into fundamental issues and emerging challenges in the field. The workshop will also feature an innovative **_show and tell_** demo session, designed to be fully interactive. Participants, including researchers, are encouraged to integrate their thematic demonstrations with those from the CSIRO Soft Robotics lab, fostering a collaborative and hands-on experience.
 
 **_Contributed Papers_** will be presented in **_spotlight talks_** and during **_two poster sessions_**. We will seek submissions describing novel ideas and/or preliminary results, but also related works concerning TAS that have been peer-reviewed and accepted by other top-tier journals and/or conferences (e.g. ICRA or AAMAS). The latter allows workshop participants to learn about recent works that have been published in the field. The Programme Committee will nominate and select papers for the **_Best TAS Paper Award_**, while workshop participants will cast their votes for the **_Best TAS Poster Award_** on the day. 
 
