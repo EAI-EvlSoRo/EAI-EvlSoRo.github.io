@@ -10,7 +10,7 @@ layout: default
 
 # About
 
-Our **_GECCO 2024 Workshop on Embodied and Evolved Artificial Intelligence_** will bring together a diverse group of professionals from various fields such as AI, evolutionary computation, robotics, engineering. We will organise a workshop which will be open and welcome to researchers from the EC community and robotics community.
+Our **_GECCO 2024 Workshop on Embodied and Evolved Artificial Intelligence (EEAI)_** will bring together a diverse group of professionals from various fields such as AI, evolutionary computation, robotics, engineering. We will organise a workshop which will be open and welcome to researchers from the EC community and robotics community.
 
 Embodied artificial intelligence is a cutting-edge field at the intersection of AI, robotics, and bioengineering, focuses on integrating artificial systems with intelligence for rich environmental interactions. It's driven by the philosophy of embodied cognition, asserting that true intelligence is linked with physical and social embodiment. 
 
@@ -37,20 +37,9 @@ Following the GECCO 2024 workshop on Embodied and Envolved Artificial Intelligen
 <a id="cfp" />
 # Call for Papers
 
-The workshop on **Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems (MACTAS)** will bring together academics and industry practitioners from a wide range of disciplines and backgrounds (including robotics, engineering, AI, computer science, social science, humanities, design, and law). Defining autonomous systems as systems involving software applications, machines, and people, which are able to take actions with little or no human supervision, the workshop will explore different definitions of TAS and individual aspects of trust from a multidisciplinary perspective. We are interested in several factors contributing to the trustworthiness of autonomous systems, which include but not limited to the following: robustness and resilience in dynamic and uncertain environments; the assurance of the design and operation of autonomous systems through verification and validation processes; the confidence the systems inspire as they evolve their functionality, their explainability, accountability, and understandability to a diverse set of users; defences against attacks on the systems, users, and the environment they are deployed in; governance and the regulation of their design and operation; and the consideration of human values and ethics in their development and use.
+The workshop on **Embodied and Evolved Artificial Intelligence (EEAI)** aims to bring together academics from a wide range of disciplines and backgrounds and to drive discussion around the interactions between evolutionary computation and embodied cognition, using soft robotics as a touchpoint. We strive to catalyze research that fully explores the potential of embodied artificial intelligence as a problem-solving tool and philosophy. 
 
-Trust is a multi-dimensional issue and is conceptualised differently by a range of disciplines. Hence, we invite novel contributions (short and regular papers with **2-4** and **6** pages, respectively) as well as already published journal/conference papers covering a wide set of topics that will be attractive to both technical and non-technical audiences:
-
- - Methodologies to certify autonomous systems
- - Public perception of autonomous systems
- - Explainable and Interpretable AI solutions for real-world applications
- - Safety and security of autonomous systems
- - Trustworthy and resilient human-machine teaming
- - Regulation
- - Notions of trust in autonomous systems
- - Responsible Research and Innovation for trustworthy AI and autonomous systems
- - Transparency of AI systems
- - System of humans
+Hence, we invite novel contributions which will be presented at the workshop and appear in the GECCO Conference Companion Proceedings, as well as already published papers covering a wide set of topics that will be attractive to both technical and non-technical audience to present in poster session.
 
 ## Submission Link
 
