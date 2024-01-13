@@ -3,8 +3,11 @@ layout: default
 ---
 
 ***
+<div style="text-align:center;">
+    ![gecco](/docs/assets/images/GECCO_logo.png){: height="200"}
+</div>
 
-![gecco](/docs/assets/images/GECCO_logo.png){: height="200" } 
+[//]: # (![gecco]&#40;/docs/assets/images/GECCO_logo.png&#41;{: height="200" } )
 
 [//]: # (![tas]&#40;/docs/assets/images/tas_logo.png&#41;{: height="200" } ![journal]&#40;/docs/assets/images/journal_logo.jpeg&#41;{: height="150" })
 
