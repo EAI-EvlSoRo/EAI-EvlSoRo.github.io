@@ -70,11 +70,13 @@ All accepted papers will be presented in a spotlight talk as well as a poster. A
 
 Our international Programme Committee will review all submissions.
 
+If you're interested in participating in the poster session, please submit your previously published paper using the above link. Additionally, include a cover letter in the **Supplementary Material** section to explain the context of your submission. This will help in understanding the relevance and contribution of your work to the workshop.
+
 ## Important dates:
 
- - Paper submission: 31st March, 2023 (AOE)
- - Acceptance notification: ~~26th April, 2023~~ 5th of May, 2023
- - Camera-ready: 10th May, 2023 (AOE)
+ - Submission opening: **February 12, 2024**
+ - Submission deadline: **April 8, 2024**
+ - Notification: **May 3, 2024**
  - Workshop date: 29 May, 2023
  
 ***
