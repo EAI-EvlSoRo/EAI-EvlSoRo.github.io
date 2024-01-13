@@ -43,19 +43,23 @@ We welcome **novel contributions** for presentation at the GECCO 2024 Workshop, 
 
 ## Submission Link
 
-Please, use the link below to submit your novel paper to GECCO 2024.
+Please, use the link below to submit your novel paper to GECCO 2024, you can find paper submission instructions in this website too.
 
-[https://easychair.org/my/conference?conf=mactas2023](https://easychair.org/my/conference?conf=mactas2023)
+[https://gecco-2024.sigevo.org/Call-for-Workshop-Papers](https://gecco-2024.sigevo.org/Call-for-Workshop-Papers)
 
-## Submission Types
+[//]: # (## Submission Types)
 
- - Short Paper (2-4 pages, excluding references)
- - Regular Paper (6 pages, excluding references)
- - Published papers (to be presented at the workshop)
+[//]: # ()
+[//]: # ( - Short Paper &#40;2-4 pages, excluding references&#41;)
 
-Please use the standard ICRA double column template [(available here)](http://ras.papercept.net/conferences/support/support.php) when submitting a novel contribution. 
+[//]: # ( - Regular Paper &#40;6 pages, excluding references&#41;)
 
-All accepted papers will be presented in a spotlight talk as well as a poster. Additionally, all accepted contributions will be also invited to submit an extended version to our planned **Special Issue on TAS** in the [Journal of Responsible Technology](https://www.sciencedirect.com/journal/journal-of-responsible-technology) (more details TBA). 
+[//]: # ( - Published papers &#40;to be presented at the workshop&#41;)
+
+[//]: # ()
+[//]: # (Please use the standard ICRA double column template [&#40;available here&#41;]&#40;http://ras.papercept.net/conferences/support/support.php&#41; when submitting a novel contribution. )
+
+All accepted papers will be presented in a spotlight talk as well as a poster. Additionally, all accepted contributions will be also invited to submit an extended version to our planned **Special Issue on EEAI** (more details TBA). 
 
 ## Best Paper / Poster Awards
 
