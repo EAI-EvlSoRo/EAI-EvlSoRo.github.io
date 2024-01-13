@@ -61,12 +61,14 @@ Please, use the link below to submit your novel paper to GECCO 2024, you can fin
 
 All accepted papers will be presented in a spotlight talk as well as a poster. Additionally, all accepted contributions will be also invited to submit an extended version to our planned **Special Issue on EEAI** (more details TBA). 
 
-## Best Paper / Poster Awards
+[//]: # (`## Best Paper / Poster Awards)
 
- - Best TAS Paper Award
- - Best TAS Poster Award  
+[//]: # ()
+[//]: # ( - Best TAS Paper Award)
 
-Our international Programme Committee will review all submissions using EasyChair and will also select a paper for the **Best TAS Paper Award (£250)**. The workshop participants will vote for a paper to receive the **Best TAS Poster Award (£250)**.    
+[//]: # ( - Best TAS Poster Award  `)
+
+Our international Programme Committee will review all submissions.
 
 ## Important dates:
 
