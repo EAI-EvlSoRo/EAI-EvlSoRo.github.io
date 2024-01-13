@@ -25,9 +25,12 @@ A diverse group of invited speakers and panelists will delve into fundamental is
 
 **_Contributed Papers_** will be presented in **_spotlight talks_** and during **_one poster sessions_**. We will seek submissions describing novel ideas and/or preliminary results, but also related works concerning EEAI that have been peer-reviewed and accepted by other top-tier journals and/or conferences. The latter allows workshop participants to learn about recent works that have been published in the field.
 
-An **_online survey on TAS_** (conducted before the event) will complement the workshop. Results of the survey will be presented during the workshop and will guide the work of focus groups during the day. **_Focus groups will work towards a multidisciplinary taxonomy on various aspects and the emerging challenges for TAS_** which will be summarised in a workshop report and/or joint white paper. A particular focus of the working groups will be on the **_design, engineering, operation and regulation of TAS_**.
+[//]: # (An **_online survey on TAS_** &#40;conducted before the event&#41; will complement the workshop. Results of the survey will be presented during the workshop and will guide the work of focus groups during the day. **_Focus groups will work towards a multidisciplinary taxonomy on various aspects and the emerging challenges for TAS_** which will be summarised in a workshop report and/or joint white paper. A particular focus of the working groups will be on the **_design, engineering, operation and regulation of TAS_**.)
 
-Finally, a **_Special Issue on TAS_** in the [Journal of Responsible Technology](https://www.sciencedirect.com/journal/journal-of-responsible-technology) will capture and disseminate the workshop outcomes including the results of the survey, the multidisciplinary taxonomy, and extended versions of the contributed papers. Thereby the workshop outcomes are preserved beyond the event. 
+Following the GECCO 2024 workshop on Embodied and Envolved Artificial Intelligence, we are plan to propose a **_Special Issue on EEAI_** in a relevant journal. This special issue aims to preserve and share the outcomes of teh workshop, including extended versions of the contributed papers, ensuring the workshop's impact extends beyond the event itself.
+
+
+[//]: # (a potential **_Special Issue on EEAI_** in the [Journal of Responsible Technology]&#40;https://www.sciencedirect.com/journal/journal-of-responsible-technology&#41; will capture and disseminate the workshop outcomes including the results of the survey, the multidisciplinary taxonomy, and extended versions of the contributed papers. Thereby the workshop outcomes are preserved beyond the event. )
 
 * * *
 
