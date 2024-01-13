@@ -21,7 +21,7 @@ This workshop aims to elucidate how the notion of embodiment as a design paradig
   - Embodied and mechanical intelligence in soft robots.
   - Real-world embodied AI through bio-inspired mechanisms.
 
-A diverse group of invited speakers and panellists will present and discuss fundamental issues as well as current and future challenges of TAS.  
+A diverse group of invited speakers and panelists will delve into fundamental issues and emerging challenges in the field. The workshop will also feature an innovative 'show and tell' demo session, designed to be fully interactive. Participants, including researchers, are encouraged to integrate their thematic demonstrations with those from the CSIRO Soft Robotics lab, fostering a collaborative and hands-on experience.
 
 **_Contributed Papers_** will be presented in **_spotlight talks_** and during **_two poster sessions_**. We will seek submissions describing novel ideas and/or preliminary results, but also related works concerning TAS that have been peer-reviewed and accepted by other top-tier journals and/or conferences (e.g. ICRA or AAMAS). The latter allows workshop participants to learn about recent works that have been published in the field. The Programme Committee will nominate and select papers for the **_Best TAS Paper Award_**, while workshop participants will cast their votes for the **_Best TAS Poster Award_** on the day. 
 
@@ -32,7 +32,7 @@ Finally, a **_Special Issue on TAS_** in the [Journal of Responsible Technology]
 * * *
 
 <a id="cfp" />
-# Call for Papers[Workshop proposal for GECCO2024[75].docx](..%2F..%2FWorkshop%2FWorkshop%20proposal%20for%20GECCO2024%5B75%5D.docx)
+# Call for Papers(..%2F..%2FWorkshop%2FWorkshop%20proposal%20for%20GECCO2024%5B75%5D.docx)
 
 The workshop on **Multidisciplinary Approaches to Co-Creating Trustworthy Autonomous Systems (MACTAS)** will bring together academics and industry practitioners from a wide range of disciplines and backgrounds (including robotics, engineering, AI, computer science, social science, humanities, design, and law). Defining autonomous systems as systems involving software applications, machines, and people, which are able to take actions with little or no human supervision, the workshop will explore different definitions of TAS and individual aspects of trust from a multidisciplinary perspective. We are interested in several factors contributing to the trustworthiness of autonomous systems, which include but not limited to the following: robustness and resilience in dynamic and uncertain environments; the assurance of the design and operation of autonomous systems through verification and validation processes; the confidence the systems inspire as they evolve their functionality, their explainability, accountability, and understandability to a diverse set of users; defences against attacks on the systems, users, and the environment they are deployed in; governance and the regulation of their design and operation; and the consideration of human values and ethics in their development and use.
 
