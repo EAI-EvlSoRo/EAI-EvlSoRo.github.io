@@ -4,9 +4,7 @@ layout: default
 
 ***
 
-![gecco](/docs/assets/images/GECCO_logo.png){: height="200" } 
-
-[//]: # (![tas]&#40;/docs/assets/images/tas_logo.png&#41;{: height="200" } ![journal]&#40;/docs/assets/images/journal_logo.jpeg&#41;{: height="150" })
+![gecco](/docs/assets/images/GECCO_logo.png){: height="200" }![birl](/docs/assets/images/birl_logo.png){: height="200" }![csiro](/docs/assets/images/csiro_logo.jpg){: height="150" }![epfl](/docs/assets/images/epfl_logo.png){: height="150" }
 
 # About
 
