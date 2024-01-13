@@ -10,7 +10,7 @@ layout: default
 
 # About
 
-Our **_GECCO 2024 Workshop on Embodied and Evolved Artificial Intelligence (EEAI)_** will bring together a diverse group of professionals from various fields such as AI, evolutionary computation, robotics, engineering. We will organise a workshop which will be open and welcome to researchers from the EC community and robotics community.
+Our **_GECCO 2024 Workshop on Embodied and Evolved Artificial Intelligence (EEAI)_** ([Link](https://gecco-2024.sigevo.org/Workshops#EEAI)) will bring together a diverse group of professionals from various fields such as AI, evolutionary computation, robotics, engineering. We will organise a workshop which will be open and welcome to researchers from the EC community and robotics community.
 
 Embodied artificial intelligence is a cutting-edge field at the intersection of AI, robotics, and bioengineering, focuses on integrating artificial systems with intelligence for rich environmental interactions. It's driven by the philosophy of embodied cognition, asserting that true intelligence is linked with physical and social embodiment. 
 
@@ -120,11 +120,11 @@ If you're interested in participating in the poster session, please submit your 
 # Organising Committee
 
 
-| Name              | Affiliation             | Contact details                                                                                                                                                  
-|:------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Yue Xie           | University of Cambridge | Email: yx388@cam.ac.uk <br /> URL: [https://www.linkedin.com/in/yue-xie-20805a202/?originalSubdomain=uk](https://www.linkedin.com/in/yue-xie-20805a202/?originalSubdomain=uk)                                                                                                                                          |
-| Sinem Getir Yaman | Univ. of York           | Email: sinem.getir.yaman@york.ac.uk <br /> URL: [https://sinemgetir.github.io](https://sinemgetir.github.io)                                                     |
-| Mohammad Naiseh   | Univ. of Bournemouth    | Email: mnaiseh1@bournemouth.ac.uk <br /> URL: [https://staffprofiles.bournemouth.ac.uk/display/mnaiseh](https://staffprofiles.bournemouth.ac.uk/display/mnaiseh) |
-| Ayse Kucukyilmaz  | Univ. of Nottingham     | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: [http://www.cs.nott.ac.uk/~pszak1/](http://www.cs.nott.ac.uk/~pszak1/)                                      |
+| Name             | Affiliation             | Contact details                                                                                                                                                  
+|:-----------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Yue Xie          | University of Cambridge | Email: yx388@cam.ac.uk <br /> URL: [https://www.linkedin.com/in/yue-xie-20805a202/?originalSubdomain=uk](https://www.linkedin.com/in/yue-xie-20805a202/?originalSubdomain=uk)                                                                                                                                          |
+| David Howard     | CSIRO                   | Email: sinem.getir.yaman@york.ac.uk <br /> URL: [https://sinemgetir.github.io](https://sinemgetir.github.io)                                                     |
+| Mohammad Naiseh  | Univ. of Bournemouth    | Email: mnaiseh1@bournemouth.ac.uk <br /> URL: [https://staffprofiles.bournemouth.ac.uk/display/mnaiseh](https://staffprofiles.bournemouth.ac.uk/display/mnaiseh) |
+| Ayse Kucukyilmaz | Univ. of Nottingham     | Email: ayse.kucukyilmaz@nottingham.ac.uk <br /> URL: [http://www.cs.nott.ac.uk/~pszak1/](http://www.cs.nott.ac.uk/~pszak1/)                                      |
 
 
