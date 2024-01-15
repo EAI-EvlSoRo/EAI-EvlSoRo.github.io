@@ -4,7 +4,7 @@ layout: default
 
 ***
 
-![alllogo](/docs/assets/images/GECCO_logo.png){: height="300" }
+![alllogo](/docs/assets/images/GECCO_2024.png){: height="300" }
 
 [//]: # (![birl]&#40;/docs/assets/images/birl_logo.png&#41;{: height="200" }![csiro]&#40;/docs/assets/images/csiro_logo.jpg&#41;{: height="150" }![epfl]&#40;/docs/assets/images/epfl_logo.png&#41;{: height="150" })
 
